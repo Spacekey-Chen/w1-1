@@ -241,7 +241,7 @@ p {
     font-size: 28px;
   }
 }
-.d-none{display: none;
+.d-sm-none{display: none;
 }
-.d-flex{display: flex;
+.d-sm-flex{display: flex;
 }

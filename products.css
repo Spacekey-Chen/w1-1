@@ -245,3 +245,8 @@ p {
 }
 .d-sm-flex{display: flex;
 }
+@media (max-width: 576px) {
+  .hide-sm {
+    display: none !important;
+  }
+}

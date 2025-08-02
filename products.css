@@ -137,7 +137,7 @@ table {
   width: 856px;
 }
 
-.header {
+.header-1 {
   width: 1076px;
   height: 717px;
   object-fit: contain;
@@ -249,4 +249,14 @@ p {
   .hide-sm {
     display: none !important;
   }
+}
+@media(max-width: 767px) {
+  .header{
+  padding: 87px 0;
+  background-image: url(hero-sm.png);
+}
+}
+img {
+  width: 100%;
+  height: auto;
 }

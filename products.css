@@ -228,3 +228,20 @@ p {
   padding-bottom: 64px;
   background: #F8F9FA;
 }
+@media (max-width:767px){.h3-md{font-size: 28px;}
+}
+.h4-md{font-size: 24px;
+}
+.h5-md{font-size: 20px;
+}
+.h6-md{font-size: 16px;
+}
+@media (max-width:576px){
+  .h3-sm{
+    font-size: 28px;
+  }
+}
+.d-none{display: none;
+}
+.d-flex{display: flex;
+}
